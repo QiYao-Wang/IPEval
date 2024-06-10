@@ -83,4 +83,29 @@ D. {D}
 Answer: 
 ```
 
-## How
+## How to Submit
+You should prepare a JSON file in UTF-8 encoding format, using the following structure, and then send it to the email wangqiyao@mail.dlut.edu.cn.
+
+```
+[
+{
+   "index": "question_id",
+   "answer": "model's answer with extraction"
+},
+{
+   "index": "question_id",
+   "answer": "model's answer with extraction"
+},
+...
+]
+```
+Please name the file as: **language (ch/en)_task (patent/relation/english)_mode (zero-shot/few-shot/CoT).json**, and include the model information.
+
+## Citation
+```
+We will upload the paper to arXiv or make supplementary actions after it is accepted.
+```
+
+## Acknowledgement
+Thanks to DUTIR for their support of this work.
+Thanks to E-Eval for providing the README.md file style.
