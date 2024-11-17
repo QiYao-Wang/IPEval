@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   🌐 <a href="https://ipeval.github.io/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/Mathsion/IPEval" target="_blank">Hugging Face</a>  • 📃 <a href="" target="_blank">Paper</a> 
+   🌐 <a href="https://Qiyao-Wang.github.io/IPEval" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/Mathsion/IPEval" target="_blank">Hugging Face</a>  • 📃 <a href="" target="_blank">Paper</a> 
 </p>
 
 ## IPEval
